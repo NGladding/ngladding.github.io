@@ -16,6 +16,3 @@
   <h5 style="font-family:verdana;"> Any plans for the future of this site? </h5> 
   <p style="font-family:verdana;"> I was gonna take it week by week and see how it goes </p>
   <hr class="rounded">
-  </div>
-  </div>
-  </div>
