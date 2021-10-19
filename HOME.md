@@ -1,12 +1,6 @@
-layout: page
-title: "HOME"
 permalink: /HOME/
-
-+<html>
 <body>
-
-<h1>My First Heading</h1>
-<p>My first paragraph.</p>
-
+<title>Home</title>
+<link rel="shortcut icon" href="https://raw.githubusercontent.com/NGladding/hobo-johnson/main/heck.ico">
+<h1>This is a sample page that will be replaced when I get to it</h1>
 </body>
-</html> 
